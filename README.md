@@ -12,6 +12,6 @@ https://rinkeby.etherscan.io/address/0xe1babc72b3e28c8742c4b314f41a9108768270e4#
 
 
 Ipfs link
-ipfs.io/ipfs/QmY4WQQ5iEttfMbmUqjDfkLFw7yJ9mw4qx1B4xC9W2Bcdy
+https://ipfs.io/ipfs/QmY4WQQ5iEttfMbmUqjDfkLFw7yJ9mw4qx1B4xC9W2Bcdy
 
 NOTE: The ipfs link contains a folder with the 2 NFTs minted in this contract
