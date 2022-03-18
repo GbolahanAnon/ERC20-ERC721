@@ -8,40 +8,42 @@ https://rinkeby.etherscan.io/address/0x78973137edb5aea2d9c3355a30ece26183bfe0a8#
 
 **ERC721 Contract Address**
 <br />
-
+https://rinkeby.etherscan.io/address/0x11915a20b57cf6fefafbd17159ab5845199c074a#code
 
 * * *
 
 ### IPFS Links
-IPFS link for NFT tokenId = 0
-<br />
-https://ipfs.io/ipfs/QmWNSebLJgrTC1pzmiqEYegYrNjr83QYJe79jP5MaiZJ6T
-
-
 IPFS link for NFT tokenId = 1
 <br />
 https://ipfs.io/ipfs/QmdVSb9DrfFEHFhTuMG8b5tR9GnCqJySuAbYL5ocedAzco
 
+
+IPFS link for NFT tokenId = 2
+<br />
+https://ipfs.io/ipfs/QmWNSebLJgrTC1pzmiqEYegYrNjr83QYJe79jP5MaiZJ6T
+
 * * *
 
 ### Metadata
-**Metadata for NFT tokenId = 0**
+**Metadata for NFT tokenId = 1**
 <br />
 ```
-     {
-"name": "MZN#1",
-"image": "https://ipfs.io/ipfs/QmWNSebLJgrTC1pzmiqEYegYrNjr83QYJe79jP5MaiZJ6T",
-"description": "Woman of color art1",
-  }
+   {
+          "name": "MTNFT#1",
+          "image": "https://ipfs.io/ipfs/QmdVSb9DrfFEHFhTuMG8b5tR9GnCqJySuAbYL5ocedAzco",
+          "description": "Woman of Colour, Front",
+          "attributes": []
+          }
   ```
 
   
   
- **Metadata for NFT tokenId = 1**
+ **Metadata for NFT tokenId = 2**
  <br />
  ```
-          {
- "name": "MZN#2",
- "image": "https://ipfs.io/ipfs/QmdVSb9DrfFEHFhTuMG8b5tR9GnCqJySuAbYL5ocedAzco",
- "description": "Woman of color art2",
-     }
+        {
+        "name": "MTNFT#2",
+        "image": "https://ipfs.io/ipfs/QmWNSebLJgrTC1pzmiqEYegYrNjr83QYJe79jP5MaiZJ6T",
+        "description": "Woman of Colour, Side",
+        "attributes": []
+        }
