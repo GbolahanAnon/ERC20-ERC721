@@ -14,6 +14,7 @@ https://ipfs.io/ipfs/QmWNSebLJgrTC1pzmiqEYegYrNjr83QYJe79jP5MaiZJ6T
 
 
 IPFS link for NFT _id = 1
+<br />
 https://ipfs.io/ipfs/QmdVSb9DrfFEHFhTuMG8b5tR9GnCqJySuAbYL5ocedAzco
 
 
