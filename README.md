@@ -1,4 +1,4 @@
-## Zuriboard Task 3
+## ZURIBOARD TASK 3: Create ERC20 and ERC721 tokens
 
 ### Contract Addresses
 **ERC20 Contract Address**
