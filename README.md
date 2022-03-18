@@ -46,4 +46,13 @@ https://ipfs.io/ipfs/QmdVSb9DrfFEHFhTuMG8b5tR9GnCqJySuAbYL5ocedAzco
  "description": "Woman of color art2",
  <br />
      }
+     
+     
+     
+  <   {
+name: MZN#2
+image: https://ipfs.io/ipfs/QmdVSb9DrfFEHFhTuMG8b5tR9GnCqJySuAbYL5ocedAzco
+description: 
+} >
+
 
