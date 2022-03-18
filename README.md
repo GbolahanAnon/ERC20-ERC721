@@ -27,7 +27,9 @@ https://ipfs.io/ipfs/QmdVSb9DrfFEHFhTuMG8b5tR9GnCqJySuAbYL5ocedAzco
 <br />
 "name": "MZN#1",
 <br />
-"image": "https://ipfs.io/ipfs/QmWNSebLJgrTC1pzmiqEYegYrNjr83QYJe79jP5MaiZJ6T","description": "Woman of color art1",
+"image": "https://ipfs.io/ipfs/QmWNSebLJgrTC1pzmiqEYegYrNjr83QYJe79jP5MaiZJ6T",
+<br />
+"description": "Woman of color art1",
 <br />
   }
 
@@ -35,10 +37,13 @@ https://ipfs.io/ipfs/QmdVSb9DrfFEHFhTuMG8b5tR9GnCqJySuAbYL5ocedAzco
   
  **Metadata for NFT _id = 1**
  <br />
- {
-name: MZN#2
-image: https://ipfs.io/ipfs/QmdVSb9DrfFEHFhTuMG8b5tR9GnCqJySuAbYL5ocedAzco
-description: 
-}
-
+          {
+ <br />
+ "name": "MZN#2",
+ <br />
+ "image": "https://ipfs.io/ipfs/QmdVSb9DrfFEHFhTuMG8b5tR9GnCqJySuAbYL5ocedAzco",
+ <br />
+ "description": "Woman of color art2",
+ <br />
+     }
 
