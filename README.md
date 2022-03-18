@@ -22,6 +22,7 @@ IPFS link for NFT tokenId = 1
 <br />
 https://ipfs.io/ipfs/QmdVSb9DrfFEHFhTuMG8b5tR9GnCqJySuAbYL5ocedAzco
 
+* * *
 
 ### Metadata
 **Metadata for NFT tokenId = 0**
@@ -50,4 +51,4 @@ https://ipfs.io/ipfs/QmdVSb9DrfFEHFhTuMG8b5tR9GnCqJySuAbYL5ocedAzco
  <br />
      }
      
-  
+  * * *
