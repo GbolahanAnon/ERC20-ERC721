@@ -38,6 +38,7 @@ https://ipfs.io/ipfs/QmdVSb9DrfFEHFhTuMG8b5tR9GnCqJySuAbYL5ocedAzco
   
   
  **Metadata for NFT tokenId = 1**
+ <br />
  ```
           {
  "name": "MZN#2",
@@ -45,7 +46,3 @@ https://ipfs.io/ipfs/QmdVSb9DrfFEHFhTuMG8b5tR9GnCqJySuAbYL5ocedAzco
  "description": "Woman of color art2",
      }
      ```
-     
-
-
-
