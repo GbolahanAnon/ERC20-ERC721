@@ -11,7 +11,7 @@ https://rinkeby.etherscan.io/address/0x78973137edb5aea2d9c3355a30ece26183bfe0a8#
 https://rinkeby.etherscan.io/address/0x6488dc5e443b38619d2c2f3e99edd00e32482e56#code
 
 
-_IPFS link for NFT _id = 0_
+IPFS link for NFT _id = 0
 <br />
 https://ipfs.io/ipfs/QmWNSebLJgrTC1pzmiqEYegYrNjr83QYJe79jP5MaiZJ6T
 
