@@ -28,12 +28,12 @@ https://ipfs.io/ipfs/QmWNSebLJgrTC1pzmiqEYegYrNjr83QYJe79jP5MaiZJ6T
 **Metadata for NFT tokenId = 1**
 <br />
 ```
-          {
-          "name": "MTNFT#1",
-          "image": "https://ipfs.io/ipfs/QmdVSb9DrfFEHFhTuMG8b5tR9GnCqJySuAbYL5ocedAzco",
-          "description": "Woman of Colour, Front",
-          "attributes": []
-          }
+        {
+        "name": "MTNFT#1",
+        "image": "https://ipfs.io/ipfs/QmdVSb9DrfFEHFhTuMG8b5tR9GnCqJySuAbYL5ocedAzco",
+        "description": "Woman of Colour, Front",
+        "attributes": []
+        }
   ```
 
   
