@@ -24,6 +24,7 @@ https://ipfs.io/ipfs/QmdVSb9DrfFEHFhTuMG8b5tR9GnCqJySuAbYL5ocedAzco
 **Metadata for NFT _id = 0**
 <br />
 {
+<br />
 name: MZN#1
 image: https://ipfs.io/ipfs/QmWNSebLJgrTC1pzmiqEYegYrNjr83QYJe79jP5MaiZJ6T
 description: 
